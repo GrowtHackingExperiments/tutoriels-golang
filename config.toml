@@ -1,0 +1,29 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Tutoriels Golang"
+theme = "hugo-cards"
+themesDir = "/tutoriels-golang/themes"
+paginate = 6
+
+[params]
+  builtBy = "Mikael Monjour"
+  defaultImage = "gopher.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = "http://twitter.com/bul_ikana"
+  github = ""
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  [params.copyright]
+     name = "Mikael Monjour"
+     link = ""
+
