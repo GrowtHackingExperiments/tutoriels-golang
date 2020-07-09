@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Tutoriels Golang"
 theme = "hugo-cards"
-themesDir = "/tutoriels-golang/themes"
+themesDir = "./themes"
 paginate = 6
 
 [params]
